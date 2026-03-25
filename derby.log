@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Mar 20 09:42:45 IST 2026:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-019d-0972-1662-000007903278 
+on database directory /home/iteradmin/Desktop/2341019634/DIIJ_LAB/university_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@34c45dca 
+Loaded from file:/home/iteradmin/Downloads/db-derby-10.16.1.1-bin/lib/derby.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=21.0.9+10-LTS
+user.dir=/home/iteradmin/Desktop/2341019634/DIIJ_LAB
+os.name=Linux
+os.arch=amd64
+os.version=6.8.0-106-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
